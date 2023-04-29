@@ -2,7 +2,7 @@
 
 <h3 align="center">A Hobbiest Programmer From Pakistan Dreaming in C++.</h3>
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/85819112?v=4" width="400"  /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/muhammadrao1246/muhammadrao1246/main/for_profile_1.jpg" width="400"  /></p>
 
 <p align="left">
   <img
