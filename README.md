@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=muhammadrao1246&theme=flat&margin-w=15"
+      src="https://github-profile-trophy-3xhuiaolz-ryo-ma-s-team.vercel.app/?username=muhammadrao1246&theme=flat&margin-w=15"
       alt="muhammadrao1246"
   /></a>
 </p>
